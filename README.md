@@ -1,3 +1,13 @@
+# Comment jouer ?
+
+Il faut d'abord sélectionner une carte dans le paquet de 5 cartes du joueur, la première de la pile étant affichée par défaut.
+
+Ensuite, cliquer sur le bouton "Jouer", en haut au centre de l'écran. 
+
+Une fois que le tour est terminé, vous pouvez cliquer sur le bouton "Rejouer" pour recommencer.
+
+ENJOY !
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
