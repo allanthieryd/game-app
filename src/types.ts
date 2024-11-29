@@ -8,6 +8,7 @@ export interface Card {
   value: string;
   suit: string;
   flipped: boolean;
+  isBurned?: boolean;
 }
 
 export interface Deck {
